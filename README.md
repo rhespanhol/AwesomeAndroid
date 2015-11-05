@@ -24,3 +24,8 @@ A complete set of awesome stuff to use with Android
 <li>Lucas Rocha: http://lucasr.org/
 </ul>
 
+# Android Libraries
+<ul>
+<li>Android Arsenal: https://android-arsenal.com/
+</ul>
+
