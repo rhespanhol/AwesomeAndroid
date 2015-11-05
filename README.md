@@ -1,57 +1,45 @@
 # AwesomeAndroid
 A complete set of awesome stuff to use with Android
 
-<h2> Blogs </h2>
-<ul>
-<li>Android Weekly: http://androidweekly.net/
-<li>Base Labs: https://lab.getbase.com/tag/android/
-<li>JayWay: http://www.jayway.com/category/android/
-<li>Android hive: http://www.androidhive.info/
-<li>Saúl Molinero: http://saulmm.github.io/
-<li>Dan Lew: http://blog.danlew.net/
-<li>Grafix Artist: http://blog.grafixartist.com/category/android/
-<li>Future Studio: https://futurestud.io/blog/tag/android/
-<li>Android Developers Blog: http://android-developers.blogspot.pt/
-<li>Android Developers Backstage Blog: http://androidbackstage.blogspot.pt/
-<li>Fragmented Podcasts: http://fragmentedpodcast.com/
-<li>frogger_mcs dev blog: http://frogermcs.github.io/
-<li>TechnoTalkative: http://www.technotalkative.com/
-<li>Styling Android: https://blog.stylingandroid.com/
-<li>Cyril Mottier: http://cyrilmottier.com/
-<li>Chet Haase: https://medium.com/@chethaase
-<li>The Cheese Factory Blog: http://inthecheesefactory.com/blog
-<li>Antonio Leiva: http://antonioleiva.com/
-<li>Chris Banes: https://chris.banes.me/
-<li>Lucas Rocha: http://lucasr.org/
-</ul>
+##Blogs
+* Android Weekly: http://androidweekly.net/
+* Base Labs: https://lab.getbase.com/tag/android/
+* JayWay: http://www.jayway.com/category/android/
+* Android hive: http://www.androidhive.info/
+* Saúl Molinero: http://saulmm.github.io/
+* Dan Lew: http://blog.danlew.net/
+* Grafix Artist: http://blog.grafixartist.com/category/android/
+* Future Studio: https://futurestud.io/blog/tag/android/
+* Android Developers Blog: http://android-developers.blogspot.pt/
+* Android Developers Backstage Blog: http://androidbackstage.blogspot.pt/
+* Fragmented Podcasts: http://fragmentedpodcast.com/
+* frogger_mcs dev blog: http://frogermcs.github.io/
+* TechnoTalkative: http://www.technotalkative.com/
+* Styling Android: https://blog.stylingandroid.com/
+* Cyril Mottier: http://cyrilmottier.com/
+* Chet Haase: https://medium.com/@chethaase
+* The Cheese Factory Blog: http://inthecheesefactory.com/blog
+* Antonio Leiva: http://antonioleiva.com/
+* Chris Banes: https://chris.banes.me/
+* Lucas Rocha: http://lucasr.org/
 
-<h2> Android Libraries</h2>
-<ul>
-<li>Android Arsenal: https://android-arsenal.com/
-<li>UI/UX Material libraries: https://github.com/wasabeef/awesome-android-ui
-</ul>
 
-<h4> Must have libraries </h4>
-<ul>
-<li>Retrofit: http://square.github.io/retrofit/
-<ul>
-<li>https://futurestud.io/blog/tag/retrofit/
-</ul>
-<li>OkHttp: http://square.github.io/okhttp/
-<li>Picasso: http://square.github.io/picasso/
-<ul>
-<li>https://futurestud.io/blog/tag/picasso/
-</ul>
-<li>Otto: http://square.github.io/otto/
-<li>DBFlow: https://github.com/Raizlabs/DBFlow
-<li>Glide: https://github.com/bumptech/glide
-<ul>
-<li>https://futurestud.io/blog/tag/glide/
-</ul>
-<li>
-</ul>
+##Android Libraries
+* Android Arsenal: https://android-arsenal.com/
+* UI/UX Material libraries: https://github.com/wasabeef/awesome-android-ui
 
-<h4> Nice libraries </h4>
+####Must have libraries
+* [Retrofit] (http://square.github.io/retrofit/) :
+  * https://futurestud.io/blog/tag/retrofit/
+* [OkHttp] (http://square.github.io/okhttp/) :
+* [Picasso] (http://square.github.io/picasso/) :
+  * https://futurestud.io/blog/tag/picasso/
+* [Otto] (http://square.github.io/otto/)
+* [DBFlow] (https://github.com/Raizlabs/DBFlow)
+* [Glide] (https://github.com/bumptech/glide)
+  * https://futurestud.io/blog/tag/glide/
+
+####Nice libraries
 <ul>
 <li> Stetho: <i>Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.</i>
 <br>https://github.com/facebook/stetho
@@ -87,25 +75,46 @@ A complete set of awesome stuff to use with Android
 <br>
 </ul>
 
-<h2> Android Studio </h2>
-<h4> Plugins </h4>
-<ul>
-<li>Android WiFi ADB: https://github.com/pedrovgs/AndroidWiFiADB
-<li>ADB-Uninstall: https://github.com/Ghedeon/ADB-Uninstall
-<li>ADB Idea: https://github.com/pbreault/adb-idea
-<li>Android File Grouping Plugin: https://github.com/dmytrodanylyk/folding-plugin
-<li>Parcelable Generator:
-</ul>
+##Android Studio
+####Plugins
+* [Android WiFi ADB] (https://github.com/pedrovgs/AndroidWiFiADB)
+* [ADB-Uninstall] (https://github.com/Ghedeon/ADB-Uninstall)
+* [ADB Idea] (https://github.com/pbreault/adb-idea)
+* [Android File Grouping Plugin] (https://github.com/dmytrodanylyk/folding-plugin)
+* [Parcelable Generator]
 
-<h4> Libraries </h4>
-<ul>
-<li> Free Builder: https://github.com/google/FreeBuilder
-</ul>
+####Libraries
+* [Free Builder] (https://github.com/google/FreeBuilder)
 
-<h4> Useful links </h4>
-<ul>
-<li>Android Studio quick tips - shortcuts: https://futurestud.io/blog/android-quick-tips-6-android-studio/
-<li>Android Studio quick tips - productivity: https://futurestud.io/blog/android-quick-tips-2/
-</ul>
+####Useful links
+* Android Studio quick tips - shortcuts: https://futurestud.io/blog/android-quick-tips-6-android-studio/
+* Android Studio quick tips - productivity: https://futurestud.io/blog/android-quick-tips-2/
+
+
+##Testing 
+
+####Tutorials / Documentation
+* Android Testing Tools: https://developer.android.com/intl/ko/tools/testing/testing-tools.html
+* Espresso-Cheat-Sheet: https://google.github.io/android-testing-support-library/downloads/espresso-cheat-sheet-2.1.0.pdf
+* What's new in Android Testing: https://docs.google.com/presentation/d/1EtFKPluGiuxZcr4W_cAziEY_--wbY_1otw44XEBv7JA/edit#slide=id.g98a986571_0_0
+* Testing Android Apps with Espresso: http://www.slideshare.net/edipo2s/testing-android-apps-with-espresso-52072153
+* Workshop: Android Katas: https://skillsmatter.com/skillscasts/6848-workshop-android-katas
+* Advanced Android Espresso: https://www.youtube.com/watch?v=hfoAC9gdC74
+* Android Testing CodeLab: http://www.code-labs.io/codelabs/android-testing/index.html?index=..%2F..%2Findex
+
+####Samples
+* https://github.com/googlecodelabs/android-testing
+* https://github.com/chiuki/android-test-demo
+* https://github.com/chiuki/espresso-samples
+* https://github.com/vgrec/EspressoExamples
+* 
+
+
+##Guides
+Useful tutorials / projects
+
+
+
+
 
 
