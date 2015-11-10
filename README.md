@@ -101,6 +101,7 @@ A complete set of awesome stuff to use with Android
 * Workshop: Android Katas: https://skillsmatter.com/skillscasts/6848-workshop-android-katas
 * Advanced Android Espresso: https://www.youtube.com/watch?v=hfoAC9gdC74
 * Android Testing CodeLab: http://www.code-labs.io/codelabs/android-testing/index.html?index=..%2F..%2Findex
+* Unit tests with Mockito - Tutorial: http://www.vogella.com/tutorials/Mockito/article.html
 
 ####Samples
 * https://github.com/googlecodelabs/android-testing
