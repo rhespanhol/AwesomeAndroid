@@ -102,6 +102,8 @@ A complete set of awesome stuff to use with Android
 * Advanced Android Espresso: https://www.youtube.com/watch?v=hfoAC9gdC74
 * Android Testing CodeLab: http://www.code-labs.io/codelabs/android-testing/index.html?index=..%2F..%2Findex
 * Unit tests with Mockito - Tutorial: http://www.vogella.com/tutorials/Mockito/article.html
+* http://chiuki.github.io/advanced-android-espresso/#/
+* http://www.marcphilipp.de/downloads/posts/2013-01-02-hamcrest-quick-reference/Hamcrest-1.3.pdf
 
 ####Samples
 * https://github.com/googlecodelabs/android-testing
