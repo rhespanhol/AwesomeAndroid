@@ -113,11 +113,49 @@ A complete set of awesome stuff to use with Android
 * 
 
 
+##Design
+
+####Tutorials / Documentation
+* 25 UX Design Principles for Building an Engaging Mobile App: https://www.thinkwithgoogle.com/collections/principles-of-mobile-app-design-engage-users-and-drive-conversions.html
+
+
+##Architecture
+
+####Tutorials / Documentation
+* Android Application Architecture: https://labs.ribot.co.uk/android-application-architecture-8b6e34acda65
+* Android Development Culture. The Document. #qualitymatters: http://artemzin.com/blog/android-development-culture-the-document-qualitymatters/
+* Mosby (MVP): http://hannesdorfmann.com/mosby/summary/
+* Exploring the MVC, MVP, and MVVM design patterns: http://www.infoworld.com/article/2926003/microsoft-net/exploring-the-mvc-mvp-and-mvvm-design-patterns.html
+* A successful XML naming convention: http://jeroenmols.com/jeroenmols.github.io/blog/2016/03/07/resourcenaming/
+* Where is the best place to store a password in your Android app: http://www.androidauthority.com/where-is-the-best-place-to-store-a-password-in-your-android-app-597197/
+* How to use the Android Keystore to store passwords and other sensitive information: http://www.androidauthority.com/use-android-keystore-store-passwords-sensitive-information-623779/
+
+
+##Animations
+
+####Tutorials / Documentation
+* Building Meaningful Motion: https://photos.google.com/share/AF1QipMRnZL6gNbS06fnBNtKffRm9HBaxW8iP6w0L1T4nZYLI6s3wi_l8daT6mq4nwPf-w?key=LThZNmFXUUtmNi04bWlEYmVfcWdPenlvaDdCRU13
+* Exploring Meaningful Motion on Android: https://labs.ribot.co.uk/exploring-meaningful-motion-on-android-1cd95a4bc61d
+* Animating an Android Floating Action Button: http://www.sitepoint.com/animating-android-floating-action-button/
+* Working with Android FAB (Floating Action Button) Animations: https://www.learn2crack.com/2015/10/android-floating-action-button-animations.html
+
+
+##Network
+
+####Tutorials / Documentation
+* Effective OkHttp: http://omgitsmgp.com/2015/12/02/effective-okhttp/
+* What’s under the hood of the OkHttp’s cache?: http://www.schibsted.pl/blog/hood-okhttps-cache/
+
 ##Guides
 Useful tutorials / projects
 
 
 
+###Questions
+
+"endless viewpager"
+*http://stackoverflow.com/questions/16983697/how-to-add-a-page-to-the-beginning-of-viewpager
+*https://github.com/codepath/android_guides/wiki/ViewPager-with-FragmentPagerAdapter
 
 
 
