@@ -22,6 +22,7 @@ A complete set of awesome stuff to use with Android
 * Antonio Leiva: http://antonioleiva.com/
 * Chris Banes: https://chris.banes.me/
 * Lucas Rocha: http://lucasr.org/
+* Riggaroo (Rebecca Franks): http://riggaroo.co.za/
 
 
 ##Android Libraries
@@ -89,6 +90,7 @@ A complete set of awesome stuff to use with Android
 ####Useful links
 * Android Studio quick tips - shortcuts: https://futurestud.io/blog/android-quick-tips-6-android-studio/
 * Android Studio quick tips - productivity: https://futurestud.io/blog/android-quick-tips-2/
+* (About) 10 Things You (Probably) Didn’t Know You Could do in Android Studio: https://medium.com/google-developers/about-10-things-you-probably-didn-t-know-you-could-do-in-android-studio-de231071b375#.6jp7exn29
 
 
 ##Testing 
@@ -104,6 +106,7 @@ A complete set of awesome stuff to use with Android
 * Unit tests with Mockito - Tutorial: http://www.vogella.com/tutorials/Mockito/article.html
 * http://chiuki.github.io/advanced-android-espresso/#/
 * http://www.marcphilipp.de/downloads/posts/2013-01-02-hamcrest-quick-reference/Hamcrest-1.3.pdf
+* Android testing using Dagger 2, Mockito and a custom JUnit rule: https://medium.com/@fabioCollini/android-testing-using-dagger-2-mockito-and-a-custom-junit-rule-c8487ed01b56
 
 ####Samples
 * https://github.com/googlecodelabs/android-testing
@@ -113,10 +116,11 @@ A complete set of awesome stuff to use with Android
 * 
 
 
-##Design
+##Design / Graphics
 
 ####Tutorials / Documentation
 * 25 UX Design Principles for Building an Engaging Mobile App: https://www.thinkwithgoogle.com/collections/principles-of-mobile-app-design-engage-users-and-drive-conversions.html
+* Custom indeterminate: [Part 1] (https://blog.stylingandroid.com/indeterminate-part-1/) [Part 2] (https://blog.stylingandroid.com/indeterminate-part-2/) [Part 3] (https://blog.stylingandroid.com/indeterminate-part-3/) [Part 4] (https://blog.stylingandroid.com/indeterminate-part-4/) [Part 5] (https://blog.stylingandroid.com/indeterminate-part-5/)
 
 
 ##Architecture
@@ -129,6 +133,8 @@ A complete set of awesome stuff to use with Android
 * A successful XML naming convention: http://jeroenmols.com/jeroenmols.github.io/blog/2016/03/07/resourcenaming/
 * Where is the best place to store a password in your Android app: http://www.androidauthority.com/where-is-the-best-place-to-store-a-password-in-your-android-app-597197/
 * How to use the Android Keystore to store passwords and other sensitive information: http://www.androidauthority.com/use-android-keystore-store-passwords-sensitive-information-623779/
+* Permissions: [Part 1] (https://blog.stylingandroid.com/permissions-part-1/) [Part 2] (https://blog.stylingandroid.com/permissions-part-2/) [Part 3] (https://blog.stylingandroid.com/permissions-part-3/) [Part 4] (https://blog.stylingandroid.com/permissions-part-4/)
+* Data Binding: [Part 1] (https://blog.stylingandroid.com/data-binding-part-1/) [Part 2] (https://blog.stylingandroid.com/data-binding-part-2/) [Part 3] (https://blog.stylingandroid.com/data-binding-part-3/) [Part 4] (https://blog.stylingandroid.com/data-binding-part-4/) [Part 5] (https://blog.stylingandroid.com/data-binding-part-5/) 
 
 
 ##Animations
@@ -138,7 +144,8 @@ A complete set of awesome stuff to use with Android
 * Exploring Meaningful Motion on Android: https://labs.ribot.co.uk/exploring-meaningful-motion-on-android-1cd95a4bc61d
 * Animating an Android Floating Action Button: http://www.sitepoint.com/animating-android-floating-action-button/
 * Working with Android FAB (Floating Action Button) Animations: https://www.learn2crack.com/2015/10/android-floating-action-button-animations.html
-
+* Get Your Act Together with CoordinatorLayout: https://www.youtube.com/watch?v=x5o2hGMMmIw
+* Customizing CoordinatorLayout's Behavior: https://www.bignerdranch.com/blog/customizing-coordinatorlayouts-behavior
 
 ##Network
 
@@ -146,16 +153,21 @@ A complete set of awesome stuff to use with Android
 * Effective OkHttp: http://omgitsmgp.com/2015/12/02/effective-okhttp/
 * What’s under the hood of the OkHttp’s cache?: http://www.schibsted.pl/blog/hood-okhttps-cache/
 
+
 ##Guides
-Useful tutorials / projects
+
+* Fixing Memory Leaks in Android – OutOfMemoryError: http://riggaroo.co.za/fixing-memory-leaks-in-android-outofmemoryerror/
+* Services: https://medium.com/@workingkills/10-things-didn-t-know-about-android-s-service-component-a2880b74b2b3
+* The Reactive Revolution: RxAndroid and how it finally clicked for me: [Part 1] (https://medium.com/@carl.whalley/the-reactive-revolution-rxandroid-and-how-it-finally-clicked-for-me-part-1-of-2-a35122a6091e#.lul8lwkko) [Part 2] (https://medium.com/@carl.whalley/the-reactive-revolution-rxandroid-and-how-it-finally-clicked-for-me-part-2-of-2-bafefeac9c33#.7gpm13csk)
+* Building Android Apps — 30 things that experience made me learn the hard way: https://medium.com/@cesarmcferreira/building-android-apps-30-things-that-experience-made-me-learn-the-hard-way-313680430bf9#.70nejyduw
 
 
 
 ###Questions
 
-"endless viewpager"
-*http://stackoverflow.com/questions/16983697/how-to-add-a-page-to-the-beginning-of-viewpager
-*https://github.com/codepath/android_guides/wiki/ViewPager-with-FragmentPagerAdapter
+* "endless viewpager"
+ * http://stackoverflow.com/questions/16983697/how-to-add-a-page-to-the-beginning-of-viewpager
+ * https://github.com/codepath/android_guides/wiki/ViewPager-with-FragmentPagerAdapter
 
 
 
