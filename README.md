@@ -92,11 +92,13 @@ A complete set of awesome stuff to use with Android
 * Android Studio quick tips - shortcuts: https://futurestud.io/blog/android-quick-tips-6-android-studio/
 * Android Studio quick tips - productivity: https://futurestud.io/blog/android-quick-tips-2/
 * (About) 10 Things You (Probably) Didn’t Know You Could do in Android Studio: https://medium.com/google-developers/about-10-things-you-probably-didn-t-know-you-could-do-in-android-studio-de231071b375#.6jp7exn29
+* ProTips: https://medium.com/sebs-top-tips/clear-the-app-data-quickly-android-studio-protips-1-ebc47ea06286#.xxtczimea
 
 
 ##Testing 
 
 ####Tutorials / Documentation
+* A BEGINNERS GUIDE TO AN EFFECTIVE ANDROID TESTING STRATEGY: https://davidguerrerodiaz.wordpress.com/2016/03/04/a-beginners-guide-to-an-effective-android-testing-strategy/
 * Android Testing Tools: https://developer.android.com/intl/ko/tools/testing/testing-tools.html
 * Espresso-Cheat-Sheet: https://google.github.io/android-testing-support-library/downloads/espresso-cheat-sheet-2.1.0.pdf
 * What's new in Android Testing: https://docs.google.com/presentation/d/1EtFKPluGiuxZcr4W_cAziEY_--wbY_1otw44XEBv7JA/edit#slide=id.g98a986571_0_0
@@ -137,6 +139,7 @@ A complete set of awesome stuff to use with Android
 * How to use the Android Keystore to store passwords and other sensitive information: http://www.androidauthority.com/use-android-keystore-store-passwords-sensitive-information-623779/
 * Permissions: [Part 1] (https://blog.stylingandroid.com/permissions-part-1/) [Part 2] (https://blog.stylingandroid.com/permissions-part-2/) [Part 3] (https://blog.stylingandroid.com/permissions-part-3/) [Part 4] (https://blog.stylingandroid.com/permissions-part-4/)
 * Data Binding: [Part 1] (https://blog.stylingandroid.com/data-binding-part-1/) [Part 2] (https://blog.stylingandroid.com/data-binding-part-2/) [Part 3] (https://blog.stylingandroid.com/data-binding-part-3/) [Part 4] (https://blog.stylingandroid.com/data-binding-part-4/) [Part 5] (https://blog.stylingandroid.com/data-binding-part-5/) 
+* Android Data Sync: [Part 1] (http://www.dmytrodanylyk.com/android-data-sync-part-1/) [Part 2] (http://www.dmytrodanylyk.com/android-data-sync-part-2/)
 
 
 ##Animations
