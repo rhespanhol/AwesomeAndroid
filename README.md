@@ -23,6 +23,7 @@ A complete set of awesome stuff to use with Android
 * Chris Banes: https://chris.banes.me/
 * Lucas Rocha: http://lucasr.org/
 * Riggaroo (Rebecca Franks): http://riggaroo.co.za/
+* Jeremie Martinez: http://jeremie-martinez.com/
 
 
 ##Android Libraries
@@ -107,6 +108,7 @@ A complete set of awesome stuff to use with Android
 * http://chiuki.github.io/advanced-android-espresso/#/
 * http://www.marcphilipp.de/downloads/posts/2013-01-02-hamcrest-quick-reference/Hamcrest-1.3.pdf
 * Android testing using Dagger 2, Mockito and a custom JUnit rule: https://medium.com/@fabioCollini/android-testing-using-dagger-2-mockito-and-a-custom-junit-rule-c8487ed01b56
+* 3 unit tests to avoid bad surprises on Android: http://jeremie-martinez.com/2016/02/16/unit-tests/
 
 ####Samples
 * https://github.com/googlecodelabs/android-testing
@@ -146,15 +148,20 @@ A complete set of awesome stuff to use with Android
 * Working with Android FAB (Floating Action Button) Animations: https://www.learn2crack.com/2015/10/android-floating-action-button-animations.html
 * Get Your Act Together with CoordinatorLayout: https://www.youtube.com/watch?v=x5o2hGMMmIw
 * Customizing CoordinatorLayout's Behavior: https://www.bignerdranch.com/blog/customizing-coordinatorlayouts-behavior
+* Intercepting everything with CoordinatorLayout Behaviors: https://medium.com/google-developers/intercepting-everything-with-coordinatorlayout-behaviors-8c6adc140c26
+* Meaningful Motion with Shared Element Transition and Circular Reveal Animation: http://www.thedroidsonroids.com/blog/android/meaningful-motion-with-shared-element-transition-and-circular-reveal-animation/
 
 ##Network
 
 ####Tutorials / Documentation
 * Effective OkHttp: http://omgitsmgp.com/2015/12/02/effective-okhttp/
 * What’s under the hood of the OkHttp’s cache?: http://www.schibsted.pl/blog/hood-okhttps-cache/
+* Caching best practices & max-age gotchas: https://jakearchibald.com/2016/caching-best-practices/ (Server side)
 
 
 ##Guides
+
+* DevOps on Android: From one Git push to production: http://jeremie-martinez.com/2016/01/14/devops-on-android/
 
 * Fixing Memory Leaks in Android – OutOfMemoryError: http://riggaroo.co.za/fixing-memory-leaks-in-android-outofmemoryerror/
 * Services: https://medium.com/@workingkills/10-things-didn-t-know-about-android-s-service-component-a2880b74b2b3
