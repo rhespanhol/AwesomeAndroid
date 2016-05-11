@@ -42,40 +42,32 @@ A complete set of awesome stuff to use with Android
   * https://futurestud.io/blog/tag/glide/
 
 ####Nice libraries
-<ul>
-<li> Stetho: <i>Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.</i>
-<br>https://github.com/facebook/stetho
-<li> Text Surface: <i>A little animation framework which could help you to show message in a nice looking way.</i>
-<br> https://github.com/elevenetc/TextSurface
-<li> Konami Code: <i>Installs the Konami code easter-egg into Android apps</i> 
-<br> https://github.com/thiagokimo/KonamiCode
-<li>FabTransitionLayout: <i>Provides the Floating Action Button Transition as specified in the Material Design Guide in a simple library.</i>
-<br>https://github.com/bowyer-app/FabTransitionLayout
-<li>MaterialSearchView: <i>Cute library to implement SearchView in a Material Design Approach. Works from Android API 14 (ICS) and above.</i>
-<br>https://github.com/MiguelCatalan/MaterialSearchView
-<li>Image libraries:
-<ul>
-<li>Picasso transformations: https://github.com/wasabeef/picasso-transformations
-<li>Glide transformations: https://github.com/wasabeef/glide-transformations
-<li>Fresco processors: https://github.com/wasabeef/fresco-processors
-</ul>
-<li>RecyclerView Animators:
-<br>https://github.com/wasabeef/recyclerview-animators
-<li>Circular Reveal: <i>Lollipop ViewAnimationUtils.createCircularReveal for everyone 2.3+ </i>
-<br>https://github.com/ozodrukh/CircularReveal
-<li>Slidr: <i>Easily add slide-to-dismiss functionality to your Activity by calling Slidr.attach(this) in your onCreate(..) method.</i>
-<br>https://github.com/r0adkll/Slidr
-<li>Flowing drawer: <i>swipe right to display drawer with flowing & bouncing effects.</i>
-<br>https://github.com/mxn21/FlowingDrawer
-<li>HollyViewPager: <i>A different beautiful ViewPager, with quick swipe controls </i>
-<br>https://github.com/florent37/HollyViewPager
-<li>KeyboardVisibilityEvent: <i>Android Library to handle soft keyboard visibility change event. show/hide keyboard method is also included.</i>
-<br>https://github.com/yshrsmz/KeyboardVisibilityEvent
-<li>Gesture Views:  <i>ImageView and FrameLayout with gestures control and position animation </i>
-<br>https://github.com/alexvasilkov/GestureViews
-<li> <i></i>
-<br>
-</ul>
+* Stetho: <i>Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.</i> [Link] (https://github.com/facebook/stetho)
+* Text Surface: <i>A little animation framework which could help you to show message in a nice looking way.</i> [Link] (https://github.com/elevenetc/TextSurface)
+* Konami Code: <i>Installs the Konami code easter-egg into Android apps</i> 
+[Link] (https://github.com/thiagokimo/KonamiCode)
+* FabTransitionLayout: <i>Provides the Floating Action Button Transition as specified in the Material Design Guide in a simple library.</i>
+[Link] (https://github.com/bowyer-app/FabTransitionLayout)
+* MaterialSearchView: <i>Cute library to implement SearchView in a Material Design Approach. Works from Android API 14 (ICS) and above.</i>
+[Link] (https://github.com/MiguelCatalan/MaterialSearchView)
+* Image libraries:
+ * Picasso transformations: [Link] (https://github.com/wasabeef/picasso-transformations)
+ * Glide transformations: [Link] (https://github.com/wasabeef/glide-transformations)
+ * Fresco processors: [Link] (https://github.com/wasabeef/fresco-processors)
+ 
+* RecyclerView Animators: [Link] (https://github.com/wasabeef/recyclerview-animators)
+* Circular Reveal: <i>Lollipop ViewAnimationUtils.createCircularReveal for everyone 2.3+ </i>
+[Link] (https://github.com/ozodrukh/CircularReveal)
+* Slidr: <i>Easily add slide-to-dismiss functionality to your Activity by calling Slidr.attach(this) in your onCreate(..) method.</i>
+[Link] (https://github.com/r0adkll/Slidr)
+* Flowing drawer: <i>swipe right to display drawer with flowing & bouncing effects.</i>
+[Link] (https://github.com/mxn21/FlowingDrawer)
+* HollyViewPager: <i>A different beautiful ViewPager, with quick swipe controls </i>
+[Link] (https://github.com/florent37/HollyViewPager)
+* KeyboardVisibilityEvent: <i>Android Library to handle soft keyboard visibility change event. show/hide keyboard method is also included.</i>
+[Link] (https://github.com/yshrsmz/KeyboardVisibilityEvent)
+* Gesture Views:  <i>ImageView and FrameLayout with gestures control and position animation </i>
+[Link] (https://github.com/alexvasilkov/GestureViews)
 
 ##Android Studio
 ####Plugins
@@ -89,28 +81,29 @@ A complete set of awesome stuff to use with Android
 * [Free Builder] (https://github.com/google/FreeBuilder)
 
 ####Useful links
-* Android Studio quick tips - shortcuts: https://futurestud.io/blog/android-quick-tips-6-android-studio/
-* Android Studio quick tips - productivity: https://futurestud.io/blog/android-quick-tips-2/
-* (About) 10 Things You (Probably) Didn’t Know You Could do in Android Studio: https://medium.com/google-developers/about-10-things-you-probably-didn-t-know-you-could-do-in-android-studio-de231071b375#.6jp7exn29
-* ProTips: https://medium.com/sebs-top-tips/clear-the-app-data-quickly-android-studio-protips-1-ebc47ea06286#.xxtczimea
+* Shortcuts: [Link] (https://futurestud.io/blog/android-quick-tips-6-android-studio/)
+* Productivity: [Link] (https://futurestud.io/blog/android-quick-tips-2/)
+* (About) 10 Things You (Probably) Didn’t Know You Could do in Android Studio: [Link] (https://medium.com/google-developers/about-10-things-you-probably-didn-t-know-you-could-do-in-android-studio-de231071b375#.6jp7exn29)
+* ProTips: [Link] (https://medium.com/sebs-top-tips/clear-the-app-data-quickly-android-studio-protips-1-ebc47ea06286#.xxtczimea)
+* Custom Templates: [Live Templates] (http://riggaroo.co.za/create-live-templates-android-studio/) , [File Templates] (http://riggaroo.co.za/custom-file-templates-android-studio/)
 
 
 ##Testing 
 
 ####Tutorials / Documentation
-* A BEGINNERS GUIDE TO AN EFFECTIVE ANDROID TESTING STRATEGY: https://davidguerrerodiaz.wordpress.com/2016/03/04/a-beginners-guide-to-an-effective-android-testing-strategy/
-* Android Testing Tools: https://developer.android.com/intl/ko/tools/testing/testing-tools.html
-* Espresso-Cheat-Sheet: https://google.github.io/android-testing-support-library/downloads/espresso-cheat-sheet-2.1.0.pdf
-* What's new in Android Testing: https://docs.google.com/presentation/d/1EtFKPluGiuxZcr4W_cAziEY_--wbY_1otw44XEBv7JA/edit#slide=id.g98a986571_0_0
-* Testing Android Apps with Espresso: http://www.slideshare.net/edipo2s/testing-android-apps-with-espresso-52072153
-* Workshop: Android Katas: https://skillsmatter.com/skillscasts/6848-workshop-android-katas
-* Advanced Android Espresso: https://www.youtube.com/watch?v=hfoAC9gdC74
-* Android Testing CodeLab: http://www.code-labs.io/codelabs/android-testing/index.html?index=..%2F..%2Findex
-* Unit tests with Mockito - Tutorial: http://www.vogella.com/tutorials/Mockito/article.html
+* A BEGINNERS GUIDE TO AN EFFECTIVE ANDROID TESTING STRATEGY: [Link] (https://davidguerrerodiaz.wordpress.com/2016/03/04/a-beginners-guide-to-an-effective-android-testing-strategy/)
+* Android Testing Tools: [Link] (https://developer.android.com/intl/ko/tools/testing/testing-tools.html)
+* Espresso-Cheat-Sheet: [Link] (https://google.github.io/android-testing-support-library/downloads/espresso-cheat-sheet-2.1.0.pdf)
+* What's new in Android Testing: [Link] (https://docs.google.com/presentation/d/1EtFKPluGiuxZcr4W_cAziEY_--wbY_1otw44XEBv7JA/edit#slide=id.g98a986571_0_0)
+* Testing Android Apps with Espresso: [Link] (http://www.slideshare.net/edipo2s/testing-android-apps-with-espresso-52072153)
+* Workshop: Android Katas: [Link] (https://skillsmatter.com/skillscasts/6848-workshop-android-katas)
+* Advanced Android Espresso: [Video] (https://www.youtube.com/watch?v=hfoAC9gdC74)
+* Android Testing CodeLab: [Link] (http://www.code-labs.io/codelabs/android-testing/index.html?index=..%2F..%2Findex)
+* Unit tests with Mockito - Tutorial: [Link] (http://www.vogella.com/tutorials/Mockito/article.html)
 * http://chiuki.github.io/advanced-android-espresso/#/
 * http://www.marcphilipp.de/downloads/posts/2013-01-02-hamcrest-quick-reference/Hamcrest-1.3.pdf
-* Android testing using Dagger 2, Mockito and a custom JUnit rule: https://medium.com/@fabioCollini/android-testing-using-dagger-2-mockito-and-a-custom-junit-rule-c8487ed01b56
-* 3 unit tests to avoid bad surprises on Android: http://jeremie-martinez.com/2016/02/16/unit-tests/
+* Android testing using Dagger 2, Mockito and a custom JUnit rule: [Link]  (https://medium.com/@fabioCollini/android-testing-using-dagger-2-mockito-and-a-custom-junit-rule-c8487ed01b56)
+* 3 unit tests to avoid bad surprises on Android: [Link] (http://jeremie-martinez.com/2016/02/16/unit-tests/)
 
 ####Samples
 * https://github.com/googlecodelabs/android-testing
@@ -123,53 +116,60 @@ A complete set of awesome stuff to use with Android
 ##Design / Graphics
 
 ####Tutorials / Documentation
-* 25 UX Design Principles for Building an Engaging Mobile App: https://www.thinkwithgoogle.com/collections/principles-of-mobile-app-design-engage-users-and-drive-conversions.html
+* 25 UX Design Principles for Building an Engaging Mobile App: [Link]  (https://www.thinkwithgoogle.com/collections/principles-of-mobile-app-design-engage-users-and-drive-conversions.html)
 * Custom indeterminate: [Part 1] (https://blog.stylingandroid.com/indeterminate-part-1/) [Part 2] (https://blog.stylingandroid.com/indeterminate-part-2/) [Part 3] (https://blog.stylingandroid.com/indeterminate-part-3/) [Part 4] (https://blog.stylingandroid.com/indeterminate-part-4/) [Part 5] (https://blog.stylingandroid.com/indeterminate-part-5/)
 
 
 ##Architecture
 
 ####Tutorials / Documentation
-* Android Application Architecture: https://labs.ribot.co.uk/android-application-architecture-8b6e34acda65
-* Android Development Culture. The Document. #qualitymatters: http://artemzin.com/blog/android-development-culture-the-document-qualitymatters/
-* Mosby (MVP): http://hannesdorfmann.com/mosby/summary/
-* Exploring the MVC, MVP, and MVVM design patterns: http://www.infoworld.com/article/2926003/microsoft-net/exploring-the-mvc-mvp-and-mvvm-design-patterns.html
-* A successful XML naming convention: http://jeroenmols.com/jeroenmols.github.io/blog/2016/03/07/resourcenaming/
-* Where is the best place to store a password in your Android app: http://www.androidauthority.com/where-is-the-best-place-to-store-a-password-in-your-android-app-597197/
-* How to use the Android Keystore to store passwords and other sensitive information: http://www.androidauthority.com/use-android-keystore-store-passwords-sensitive-information-623779/
+* Android Application Architecture: [Link] (https://labs.ribot.co.uk/android-application-architecture-8b6e34acda65)
+* Android Development Culture. The Document. #qualitymatters: [Link]  (http://artemzin.com/blog/android-development-culture-the-document-qualitymatters/)
+* Where is the best place to store a password in your Android app: [Link]  (http://www.androidauthority.com/where-is-the-best-place-to-store-a-password-in-your-android-app-597197/)
+* How to use the Android Keystore to store passwords and other sensitive information: [Link] (http://www.androidauthority.com/use-android-keystore-store-passwords-sensitive-information-623779/)
 * Permissions: [Part 1] (https://blog.stylingandroid.com/permissions-part-1/) [Part 2] (https://blog.stylingandroid.com/permissions-part-2/) [Part 3] (https://blog.stylingandroid.com/permissions-part-3/) [Part 4] (https://blog.stylingandroid.com/permissions-part-4/)
 * Data Binding: [Part 1] (https://blog.stylingandroid.com/data-binding-part-1/) [Part 2] (https://blog.stylingandroid.com/data-binding-part-2/) [Part 3] (https://blog.stylingandroid.com/data-binding-part-3/) [Part 4] (https://blog.stylingandroid.com/data-binding-part-4/) [Part 5] (https://blog.stylingandroid.com/data-binding-part-5/) 
 * Android Data Sync: [Part 1] (http://www.dmytrodanylyk.com/android-data-sync-part-1/) [Part 2] (http://www.dmytrodanylyk.com/android-data-sync-part-2/)
 
+##### Naming
+* A successful XML naming convention: [Link] (http://jeroenmols.com/jeroenmols.github.io/blog/2016/03/07/resourcenaming/)
+* This one simple change for better class naming will blow your mind: [Link] (https://www.novoda.com/blog/better-class-naming)
+
+##### Patterns
+* Mosby (MVP): [Link] (http://hannesdorfmann.com/mosby/summary/)
+* Exploring the MVC, MVP, and MVVM design patterns: [Link] (http://www.infoworld.com/article/2926003/microsoft-net/exploring-the-mvc-mvp-and-mvvm-design-patterns.html)
 
 ##Animations
 
 ####Tutorials / Documentation
-* Building Meaningful Motion: https://photos.google.com/share/AF1QipMRnZL6gNbS06fnBNtKffRm9HBaxW8iP6w0L1T4nZYLI6s3wi_l8daT6mq4nwPf-w?key=LThZNmFXUUtmNi04bWlEYmVfcWdPenlvaDdCRU13
-* Exploring Meaningful Motion on Android: https://labs.ribot.co.uk/exploring-meaningful-motion-on-android-1cd95a4bc61d
-* Animating an Android Floating Action Button: http://www.sitepoint.com/animating-android-floating-action-button/
-* Working with Android FAB (Floating Action Button) Animations: https://www.learn2crack.com/2015/10/android-floating-action-button-animations.html
-* Get Your Act Together with CoordinatorLayout: https://www.youtube.com/watch?v=x5o2hGMMmIw
-* Customizing CoordinatorLayout's Behavior: https://www.bignerdranch.com/blog/customizing-coordinatorlayouts-behavior
-* Intercepting everything with CoordinatorLayout Behaviors: https://medium.com/google-developers/intercepting-everything-with-coordinatorlayout-behaviors-8c6adc140c26
-* Meaningful Motion with Shared Element Transition and Circular Reveal Animation: http://www.thedroidsonroids.com/blog/android/meaningful-motion-with-shared-element-transition-and-circular-reveal-animation/
+* Building Meaningful Motion: [Presentation] (https://photos.google.com/share/AF1QipMRnZL6gNbS06fnBNtKffRm9HBaxW8iP6w0L1T4nZYLI6s3wi_l8daT6mq4nwPf-w?key=LThZNmFXUUtmNi04bWlEYmVfcWdPenlvaDdCRU13)
+* Exploring Meaningful Motion on Android: [Link] (https://labs.ribot.co.uk/exploring-meaningful-motion-on-android-1cd95a4bc61d)
+* Animating an Android Floating Action Button: [Link] (http://www.sitepoint.com/animating-android-floating-action-button/)
+* Working with Android FAB (Floating Action Button) Animations: [Link] (https://www.learn2crack.com/2015/10/android-floating-action-button-animations.html)
+* Get Your Act Together with CoordinatorLayout: [Video] (https://www.youtube.com/watch?v=x5o2hGMMmIw)
+* Customizing CoordinatorLayout's Behavior: [Link] (https://www.bignerdranch.com/blog/customizing-coordinatorlayouts-behavior)
+* Intercepting everything with CoordinatorLayout Behaviors: [Link] (https://medium.com/google-developers/intercepting-everything-with-coordinatorlayout-behaviors-8c6adc140c26)
+* Meaningful Motion with Shared Element Transition and Circular Reveal Animation: [Link] (http://www.thedroidsonroids.com/blog/android/meaningful-motion-with-shared-element-transition-and-circular-reveal-animation/)
 
 ##Network
 
 ####Tutorials / Documentation
-* Effective OkHttp: http://omgitsmgp.com/2015/12/02/effective-okhttp/
-* What’s under the hood of the OkHttp’s cache?: http://www.schibsted.pl/blog/hood-okhttps-cache/
-* Caching best practices & max-age gotchas: https://jakearchibald.com/2016/caching-best-practices/ (Server side)
+* Effective OkHttp: [Link] (http://omgitsmgp.com/2015/12/02/effective-okhttp/)
+* What’s under the hood of the OkHttp’s cache?: [Link] (http://www.schibsted.pl/blog/hood-okhttps-cache/)
+* Protecting against unintentional regressions to cleartext traffic in your Android apps: [Link] (http://android-developers.blogspot.co.uk/2016/04/protecting-against-unintentional.html)
+
+##### Server side
+* Caching best practices & max-age gotchas: [Link] (https://jakearchibald.com/2016/caching-best-practices/)
 
 
 ##Guides
 
-* DevOps on Android: From one Git push to production: http://jeremie-martinez.com/2016/01/14/devops-on-android/
+* DevOps on Android: From one Git push to production: [Link] (http://jeremie-martinez.com/2016/01/14/devops-on-android/)
 
-* Fixing Memory Leaks in Android – OutOfMemoryError: http://riggaroo.co.za/fixing-memory-leaks-in-android-outofmemoryerror/
-* Services: https://medium.com/@workingkills/10-things-didn-t-know-about-android-s-service-component-a2880b74b2b3
+* Fixing Memory Leaks in Android – OutOfMemoryError: [Link] (http://riggaroo.co.za/fixing-memory-leaks-in-android-outofmemoryerror/)
+* Services: [Link] (https://medium.com/@workingkills/10-things-didn-t-know-about-android-s-service-component-a2880b74b2b3)
 * The Reactive Revolution: RxAndroid and how it finally clicked for me: [Part 1] (https://medium.com/@carl.whalley/the-reactive-revolution-rxandroid-and-how-it-finally-clicked-for-me-part-1-of-2-a35122a6091e#.lul8lwkko) [Part 2] (https://medium.com/@carl.whalley/the-reactive-revolution-rxandroid-and-how-it-finally-clicked-for-me-part-2-of-2-bafefeac9c33#.7gpm13csk)
-* Building Android Apps — 30 things that experience made me learn the hard way: https://medium.com/@cesarmcferreira/building-android-apps-30-things-that-experience-made-me-learn-the-hard-way-313680430bf9#.70nejyduw
+* Building Android Apps — 30 things that experience made me learn the hard way: [Link] (https://medium.com/@cesarmcferreira/building-android-apps-30-things-that-experience-made-me-learn-the-hard-way-313680430bf9#.70nejyduw)
 
 
 
