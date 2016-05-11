@@ -42,34 +42,47 @@ A complete set of awesome stuff to use with Android
   * https://futurestud.io/blog/tag/glide/
 
 ####Nice libraries
-* Stetho: <i>Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.</i> [GitHub] (https://github.com/facebook/stetho)
-* Text Surface: <i>A little animation framework which could help you to show message in a nice looking way.</i> [GitHub] (https://github.com/elevenetc/TextSurface)
-* Konami Code: <i>Installs the Konami code easter-egg into Android apps</i> 
-[GitHub] (https://github.com/thiagokimo/KonamiCode)
-* FabTransitionLayout: <i>Provides the Floating Action Button Transition as specified in the Material Design Guide in a simple library.</i>
-[GitHub] (https://github.com/bowyer-app/FabTransitionLayout)
-* MaterialSearchView: <i>Cute library to implement SearchView in a Material Design Approach. Works from Android API 14 (ICS) and above.</i>
-[GitHub] (https://github.com/MiguelCatalan/MaterialSearchView)
-* Image libraries:
- * Picasso transformations: [GitHub] (https://github.com/wasabeef/picasso-transformations)
- * Glide transformations: [GitHub] (https://github.com/wasabeef/glide-transformations)
- * Fresco processors: [GitHub] (https://github.com/wasabeef/fresco-processors)
+* [Stetho] (https://github.com/facebook/stetho)
+ > Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
  
-* RecyclerView Animators: [GitHub] (https://github.com/wasabeef/recyclerview-animators)
-* Circular Reveal: <i>Lollipop ViewAnimationUtils.createCircularReveal for everyone 2.3+ </i>
-[GitHub] (https://github.com/ozodrukh/CircularReveal)
-* Slidr: <i>Easily add slide-to-dismiss functionality to your Activity by calling Slidr.attach(this) in your onCreate(..) method.</i>
-[GitHub] (https://github.com/r0adkll/Slidr)
-* Flowing drawer: <i>swipe right to display drawer with flowing & bouncing effects.</i>
-[GitHub] (https://github.com/mxn21/FlowingDrawer)
-* HollyViewPager: <i>A different beautiful ViewPager, with quick swipe controls </i>
-[GitHub] (https://github.com/florent37/HollyViewPager)
-* KeyboardVisibilityEvent: <i>Android Library to handle soft keyboard visibility change event. show/hide keyboard method is also included.</i>
-[GitHub] (https://github.com/yshrsmz/KeyboardVisibilityEvent)
-* Gesture Views:  <i>ImageView and FrameLayout with gestures control and position animation </i>
-[GitHub] (https://github.com/alexvasilkov/GestureViews)
-* Gradle Play Publisher: <i>Gradle Plugin to upload your APK and metadata to the Google Play Store</i>
-[GitHub] (https://github.com/Triple-T/gradle-play-publisher)
+* [Text Surface] (https://github.com/elevenetc/TextSurface) 
+ > A little animation framework which could help you to show message in a nice looking way.
+
+* [Konami Code] (https://github.com/thiagokimo/KonamiCode)
+ > Installs the Konami code easter-egg into Android apps
+
+* [FabTransitionLayout] (https://github.com/bowyer-app/FabTransitionLayout) 
+ > Provides the Floating Action Button Transition as specified in the Material Design Guide in a simple library.
+
+* [MaterialSearchView] (https://github.com/MiguelCatalan/MaterialSearchView) 
+ > Cute library to implement SearchView in a Material Design Approach. Works from Android API 14 (ICS) and above.
+
+* Image libraries:
+ * [Picasso transformations] (https://github.com/wasabeef/picasso-transformations)
+ * [Glide transformations] (https://github.com/wasabeef/glide-transformations)
+ * [Fresco processors] (https://github.com/wasabeef/fresco-processors)
+ 
+* [RecyclerView Animators] (https://github.com/wasabeef/recyclerview-animators)
+* [Circular Reveal] (https://github.com/ozodrukh/CircularReveal)
+ > Lollipop ViewAnimationUtils.createCircularReveal for everyone 2.3+ 
+
+* [Slidr] (https://github.com/r0adkll/Slidr) 
+ > Easily add slide-to-dismiss functionality to your Activity by calling Slidr.attach(this) in your onCreate(..) method.
+
+* [Flowing drawer] (https://github.com/mxn21/FlowingDrawer) 
+ > swipe right to display drawer with flowing & bouncing effects.
+
+* [HollyViewPager] (https://github.com/florent37/HollyViewPager)
+ > A different beautiful ViewPager, with quick swipe controls 
+
+* [KeyboardVisibilityEvent] (https://github.com/yshrsmz/KeyboardVisibilityEvent) 
+ > Android Library to handle soft keyboard visibility change event. show/hide keyboard method is also included.
+
+* [Gesture Views] (https://github.com/alexvasilkov/GestureViews)
+ > ImageView and FrameLayout with gestures control and position animation
+
+* [Gradle Play Publisher] (https://github.com/Triple-T/gradle-play-publisher) 
+ > Gradle Plugin to upload your APK and metadata to the Google Play Store</i>
 
 ##Android Studio
 ####Plugins
