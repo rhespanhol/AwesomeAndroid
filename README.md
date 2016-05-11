@@ -42,32 +42,34 @@ A complete set of awesome stuff to use with Android
   * https://futurestud.io/blog/tag/glide/
 
 ####Nice libraries
-* Stetho: <i>Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.</i> [Link] (https://github.com/facebook/stetho)
-* Text Surface: <i>A little animation framework which could help you to show message in a nice looking way.</i> [Link] (https://github.com/elevenetc/TextSurface)
+* Stetho: <i>Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.</i> [GitHub] (https://github.com/facebook/stetho)
+* Text Surface: <i>A little animation framework which could help you to show message in a nice looking way.</i> [GitHub] (https://github.com/elevenetc/TextSurface)
 * Konami Code: <i>Installs the Konami code easter-egg into Android apps</i> 
-[Link] (https://github.com/thiagokimo/KonamiCode)
+[GitHub] (https://github.com/thiagokimo/KonamiCode)
 * FabTransitionLayout: <i>Provides the Floating Action Button Transition as specified in the Material Design Guide in a simple library.</i>
-[Link] (https://github.com/bowyer-app/FabTransitionLayout)
+[GitHub] (https://github.com/bowyer-app/FabTransitionLayout)
 * MaterialSearchView: <i>Cute library to implement SearchView in a Material Design Approach. Works from Android API 14 (ICS) and above.</i>
-[Link] (https://github.com/MiguelCatalan/MaterialSearchView)
+[GitHub] (https://github.com/MiguelCatalan/MaterialSearchView)
 * Image libraries:
- * Picasso transformations: [Link] (https://github.com/wasabeef/picasso-transformations)
- * Glide transformations: [Link] (https://github.com/wasabeef/glide-transformations)
- * Fresco processors: [Link] (https://github.com/wasabeef/fresco-processors)
+ * Picasso transformations: [GitHub] (https://github.com/wasabeef/picasso-transformations)
+ * Glide transformations: [GitHub] (https://github.com/wasabeef/glide-transformations)
+ * Fresco processors: [GitHub] (https://github.com/wasabeef/fresco-processors)
  
-* RecyclerView Animators: [Link] (https://github.com/wasabeef/recyclerview-animators)
+* RecyclerView Animators: [GitHub] (https://github.com/wasabeef/recyclerview-animators)
 * Circular Reveal: <i>Lollipop ViewAnimationUtils.createCircularReveal for everyone 2.3+ </i>
-[Link] (https://github.com/ozodrukh/CircularReveal)
+[GitHub] (https://github.com/ozodrukh/CircularReveal)
 * Slidr: <i>Easily add slide-to-dismiss functionality to your Activity by calling Slidr.attach(this) in your onCreate(..) method.</i>
-[Link] (https://github.com/r0adkll/Slidr)
+[GitHub] (https://github.com/r0adkll/Slidr)
 * Flowing drawer: <i>swipe right to display drawer with flowing & bouncing effects.</i>
-[Link] (https://github.com/mxn21/FlowingDrawer)
+[GitHub] (https://github.com/mxn21/FlowingDrawer)
 * HollyViewPager: <i>A different beautiful ViewPager, with quick swipe controls </i>
-[Link] (https://github.com/florent37/HollyViewPager)
+[GitHub] (https://github.com/florent37/HollyViewPager)
 * KeyboardVisibilityEvent: <i>Android Library to handle soft keyboard visibility change event. show/hide keyboard method is also included.</i>
-[Link] (https://github.com/yshrsmz/KeyboardVisibilityEvent)
+[GitHub] (https://github.com/yshrsmz/KeyboardVisibilityEvent)
 * Gesture Views:  <i>ImageView and FrameLayout with gestures control and position animation </i>
-[Link] (https://github.com/alexvasilkov/GestureViews)
+[GitHub] (https://github.com/alexvasilkov/GestureViews)
+* Gradle Play Publisher: <i>Gradle Plugin to upload your APK and metadata to the Google Play Store</i>
+[GitHub] (https://github.com/Triple-T/gradle-play-publisher)
 
 ##Android Studio
 ####Plugins
@@ -123,7 +125,7 @@ A complete set of awesome stuff to use with Android
 ##Architecture
 
 ####Tutorials / Documentation
-* Android Application Architecture: [Link] (https://labs.ribot.co.uk/android-application-architecture-8b6e34acda65)
+* Android Application Architecture: [Link] (https://labs.ribot.co.uk/android-application-architecture-8b6e34acda65) , [Project] (https://github.com/ribot/android-boilerplate)
 * Android Development Culture. The Document. #qualitymatters: [Link]  (http://artemzin.com/blog/android-development-culture-the-document-qualitymatters/)
 * Where is the best place to store a password in your Android app: [Link]  (http://www.androidauthority.com/where-is-the-best-place-to-store-a-password-in-your-android-app-597197/)
 * How to use the Android Keystore to store passwords and other sensitive information: [Link] (http://www.androidauthority.com/use-android-keystore-store-passwords-sensitive-information-623779/)
@@ -131,9 +133,10 @@ A complete set of awesome stuff to use with Android
 * Data Binding: [Part 1] (https://blog.stylingandroid.com/data-binding-part-1/) [Part 2] (https://blog.stylingandroid.com/data-binding-part-2/) [Part 3] (https://blog.stylingandroid.com/data-binding-part-3/) [Part 4] (https://blog.stylingandroid.com/data-binding-part-4/) [Part 5] (https://blog.stylingandroid.com/data-binding-part-5/) 
 * Android Data Sync: [Part 1] (http://www.dmytrodanylyk.com/android-data-sync-part-1/) [Part 2] (http://www.dmytrodanylyk.com/android-data-sync-part-2/)
 
-##### Naming
+##### Guidelines
 * A successful XML naming convention: [Link] (http://jeroenmols.com/jeroenmols.github.io/blog/2016/03/07/resourcenaming/)
 * This one simple change for better class naming will blow your mind: [Link] (https://www.novoda.com/blog/better-class-naming)
+* Guidelines used by Ribot: [Github] (https://github.com/ribot/android-guidelines)
 
 ##### Patterns
 * Mosby (MVP): [Link] (http://hannesdorfmann.com/mosby/summary/)
