@@ -137,6 +137,8 @@ A complete set of awesome stuff to use with Android
 
 ##Architecture
 
+* **Android guidelines by Google** [GitHub] (https://github.com/googlesamples/android-architecture)
+
 ####Tutorials / Documentation
 * Android Application Architecture: [Link] (https://labs.ribot.co.uk/android-application-architecture-8b6e34acda65) , [Project] (https://github.com/ribot/android-boilerplate)
 * Android Development Culture. The Document. #qualitymatters: [Link]  (http://artemzin.com/blog/android-development-culture-the-document-qualitymatters/)
