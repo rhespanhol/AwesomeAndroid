@@ -82,7 +82,10 @@ A complete set of awesome stuff to use with Android
  > ImageView and FrameLayout with gestures control and position animation
 
 * [Gradle Play Publisher] (https://github.com/Triple-T/gradle-play-publisher) 
- > Gradle Plugin to upload your APK and metadata to the Google Play Store</i>
+ > Gradle Plugin to upload your APK and metadata to the Google Play Store
+
+* [Dexcount Gradle Plugin] (https://github.com/KeepSafe/dexcount-gradle-plugin)
+ > A Gradle plugin to report the number of method references in your APK on every build.
 
 ##Android Studio
 ####Plugins
