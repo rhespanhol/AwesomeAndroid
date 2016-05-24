@@ -40,6 +40,8 @@ A complete set of awesome stuff to use with Android
 * [DBFlow] (https://github.com/Raizlabs/DBFlow)
 * [Glide] (https://github.com/bumptech/glide)
   * https://futurestud.io/blog/tag/glide/
+* [Gson] (https://github.com/google/gson)
+  * https://futurestud.io/blog/tag/gson
 
 ####Nice libraries
 * [Stetho] (https://github.com/facebook/stetho)
