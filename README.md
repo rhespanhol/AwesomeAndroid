@@ -101,11 +101,15 @@ A complete set of awesome stuff to use with Android
 * [Free Builder] (https://github.com/google/FreeBuilder)
 
 ####Useful links
+* Keyboard Navigation: [Link] (http://hadihariri.com/2014/06/24/no-tabs-in-intellij-idea/)
 * Shortcuts: [Link] (https://futurestud.io/blog/android-quick-tips-6-android-studio/)
 * Productivity: [Link] (https://futurestud.io/blog/android-quick-tips-2/)
 * (About) 10 Things You (Probably) Didn’t Know You Could do in Android Studio: [Link] (https://medium.com/google-developers/about-10-things-you-probably-didn-t-know-you-could-do-in-android-studio-de231071b375#.6jp7exn29)
 * ProTips: [Link] (https://medium.com/sebs-top-tips/clear-the-app-data-quickly-android-studio-protips-1-ebc47ea06286#.xxtczimea)
 * Custom Templates: [Live Templates] (http://riggaroo.co.za/create-live-templates-android-studio/) , [File Templates] (http://riggaroo.co.za/custom-file-templates-android-studio/)
+* Writing More Code by Writing Less Code with Android Studio Live Templates: [Link] (https://medium.com/google-developers/writing-more-code-by-writing-less-code-with-android-studio-live-templates-244f648d17c7#.awo7t3mco) 
+
+
 
 
 ##Testing 
@@ -136,8 +140,19 @@ A complete set of awesome stuff to use with Android
 ##Design / Graphics
 
 ####Tutorials / Documentation
+
+* Devices metrics: [Link] (https://design.google.com/devices/)
+
 * 25 UX Design Principles for Building an Engaging Mobile App: [Link]  (https://www.thinkwithgoogle.com/collections/principles-of-mobile-app-design-engage-users-and-drive-conversions.html)
 * Custom indeterminate: [Part 1] (https://blog.stylingandroid.com/indeterminate-part-1/) [Part 2] (https://blog.stylingandroid.com/indeterminate-part-2/) [Part 3] (https://blog.stylingandroid.com/indeterminate-part-3/) [Part 4] (https://blog.stylingandroid.com/indeterminate-part-4/) [Part 5] (https://blog.stylingandroid.com/indeterminate-part-5/)
+
+##### Constraint Layout 
+* Exploring the new Android ConstraintLayout: [Link] (https://medium.com/exploring-android/exploring-the-new-android-constraintlayout-eed37fe8d8f1#.oivnll550)
+* Intro to the new ConstraintLayout in Android: [Link] (http://segunfamisa.com/posts/constraint-layout-in-android)
+* ConstraintLayout 101 & the new Layout Builder in Android Studio: [Link] (http://riggaroo.co.za/constraintlayout-101-new-layout-builder-android-studio/)
+* First Impressions of Android’s new ConstraintLayout: [Link] (https://medium.com/google-developer-experts/first-impressions-of-androids-new-constraintlayout-c6d081b2bc2a#.zc7bsyuom)
+* Do you really like ConstraintLayout? Let’s see … : [Link] (https://medium.com/android-news/do-you-really-like-constraintlayout-lets-see-b11b8ef021a4#.yrhcfhzee)
+* IO 2016 Codelab: [Link] (https://codelabs.developers.google.com/codelabs/constraint-layout/index.html?index=..%2F..%2Fio2016#0)
 
 
 ##Architecture
@@ -162,6 +177,18 @@ A complete set of awesome stuff to use with Android
 * Mosby (MVP): [Link] (http://hannesdorfmann.com/mosby/summary/)
 * Exploring the MVC, MVP, and MVVM design patterns: [Link] (http://www.infoworld.com/article/2926003/microsoft-net/exploring-the-mvc-mvp-and-mvvm-design-patterns.html)
 
+##### RxJava
+* The Reactive Revolution: RxAndroid and how it finally clicked for me: [Part 1] (https://medium.com/@carl.whalley/the-reactive-revolution-rxandroid-and-how-it-finally-clicked-for-me-part-1-of-2-a35122a6091e#.lul8lwkko) [Part 2] (https://medium.com/@carl.whalley/the-reactive-revolution-rxandroid-and-how-it-finally-clicked-for-me-part-2-of-2-bafefeac9c33#.7gpm13csk)
+* Crunching RxAndroid: [Intro] (https://medium.com/crunching-rxandroid/crunching-rxandroid-intro-c27eb6f009ea#.lnjpj2rhm) [Part 1] (https://medium.com/crunching-rxandroid/crunching-rxandroid-part-1-4ac7b7123238#.ed6lpqsss) 
+[Part 2] (https://medium.com/crunching-rxandroid/crunching-rxandroid-part-2-fb2a86f4fb8d#.l0pxevl90) 
+[Part 3] (https://medium.com/crunching-rxandroid/crunching-rxandroid-part-3-91fc9a619b7b#.i6g0er3px)
+[Part 4] (https://medium.com/crunching-rxandroid/crunching-rxandroid-part-4-b2c3771ad52d#.d00gxswwh)
+[Part 5] (https://medium.com/crunching-rxandroid/crunching-rxandroid-part-5-1dd5fba89058#.wgtqigfld)
+[Part 6] (https://medium.com/crunching-rxandroid/crunching-rxandroid-part-6-6149764b59e#.sko0ipr7l)
+[Part 7] (https://medium.com/crunching-rxandroid/crunching-rxandroid-part-7-22be9e95650c#.txg84hkik)
+[Part 8] (https://medium.com/crunching-rxandroid/crunching-rxandroid-part-8-bf1808c08f95#.pyl10iy0l)
+[Part 9] (https://medium.com/crunching-rxandroid/crunching-rxandroid-part-9-37cfc28e2249#.vsukqkh0c)
+
 ##Animations
 
 ####Tutorials / Documentation
@@ -185,14 +212,14 @@ A complete set of awesome stuff to use with Android
 * Caching best practices & max-age gotchas: [Link] (https://jakearchibald.com/2016/caching-best-practices/)
 
 
-##Guides
+##Guides (Just in case)
 
 * DevOps on Android: From one Git push to production: [Link] (http://jeremie-martinez.com/2016/01/14/devops-on-android/)
 
 * Fixing Memory Leaks in Android – OutOfMemoryError: [Link] (http://riggaroo.co.za/fixing-memory-leaks-in-android-outofmemoryerror/)
 * Services: [Link] (https://medium.com/@workingkills/10-things-didn-t-know-about-android-s-service-component-a2880b74b2b3)
-* The Reactive Revolution: RxAndroid and how it finally clicked for me: [Part 1] (https://medium.com/@carl.whalley/the-reactive-revolution-rxandroid-and-how-it-finally-clicked-for-me-part-1-of-2-a35122a6091e#.lul8lwkko) [Part 2] (https://medium.com/@carl.whalley/the-reactive-revolution-rxandroid-and-how-it-finally-clicked-for-me-part-2-of-2-bafefeac9c33#.7gpm13csk)
 * Building Android Apps — 30 things that experience made me learn the hard way: [Link] (https://medium.com/@cesarmcferreira/building-android-apps-30-things-that-experience-made-me-learn-the-hard-way-313680430bf9#.70nejyduw)
+* IT TAKES LESS THAN 5 MINS, MAKE THAT DRAWER VISIBLE UNDER YOUR STATUS BAR: [Link] (http://matthewwear.xyz/no-excuses-it-takes-5-mins-make-that-drawer-visible-under-your-status-bar-2/)
 
 
 
