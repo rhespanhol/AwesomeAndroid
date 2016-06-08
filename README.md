@@ -89,6 +89,15 @@ A complete set of awesome stuff to use with Android
 * [Dexcount Gradle Plugin] (https://github.com/KeepSafe/dexcount-gradle-plugin)
  > A Gradle plugin to report the number of method references in your APK on every build.
 
+* [Easy Device Info] (https://github.com/nisrulz/easydeviceinfo)
+ > Android library to get device information in a super easy way.
+
+* [Android Priority Queue] (https://github.com/yigit/android-priority-jobqueue)
+ > A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability.
+
+* [BlurView] (https://github.com/Dimezis/BlurView)
+ > Dynamic iOS-like blur of underlying Views for Android
+
 ##Android Studio
 ####Plugins
 * [Android WiFi ADB] (https://github.com/pedrovgs/AndroidWiFiADB)
@@ -99,6 +108,7 @@ A complete set of awesome stuff to use with Android
 
 ####Libraries
 * [Free Builder] (https://github.com/google/FreeBuilder)
+* [Android Studio MVP Template] (https://github.com/benoitletondor/Android-Studio-MVP-template)
 
 ####Useful links
 * Keyboard Navigation: [Link] (http://hadihariri.com/2014/06/24/no-tabs-in-intellij-idea/)
@@ -128,6 +138,8 @@ A complete set of awesome stuff to use with Android
 * http://www.marcphilipp.de/downloads/posts/2013-01-02-hamcrest-quick-reference/Hamcrest-1.3.pdf
 * Android testing using Dagger 2, Mockito and a custom JUnit rule: [Link]  (https://medium.com/@fabioCollini/android-testing-using-dagger-2-mockito-and-a-custom-junit-rule-c8487ed01b56)
 * 3 unit tests to avoid bad surprises on Android: [Link] (http://jeremie-martinez.com/2016/02/16/unit-tests/)
+* AdapterViews and Espresso: [Link] (https://medium.com/google-developers/adapterviews-and-espresso-f4172aa853cf#.pm6mnwat6)
+* What’s New in UI Automator 2.0 and How to Get Started: [Link] (http://testdroid.com/tech/how-to-get-started-with-ui-automator-2-0)
 
 ####Samples
 * https://github.com/googlecodelabs/android-testing
@@ -161,9 +173,12 @@ A complete set of awesome stuff to use with Android
 
 ####Tutorials / Documentation
 * Android Application Architecture: [Link] (https://labs.ribot.co.uk/android-application-architecture-8b6e34acda65) , [Project] (https://github.com/ribot/android-boilerplate)
+* Introducing Bourbon: Dribbble, Android, MVP and a Common-Code Module: [Link] (https://medium.com/exploring-android/introducing-bourbon-dribbble-android-mvp-and-a-common-code-module-1d332a4028b5#.3as87icu9)
+* Building an Android App Using the MVP Pattern (Model-View-Presenter): [Link] (https://medium.com/android-news/building-an-android-app-using-the-mvp-pattern-model-view-presenter-e38822bcece7#.z1v18rijv)
 * Android Development Culture. The Document. #qualitymatters: [Link]  (http://artemzin.com/blog/android-development-culture-the-document-qualitymatters/)
 * Where is the best place to store a password in your Android app: [Link]  (http://www.androidauthority.com/where-is-the-best-place-to-store-a-password-in-your-android-app-597197/)
 * How to use the Android Keystore to store passwords and other sensitive information: [Link] (http://www.androidauthority.com/use-android-keystore-store-passwords-sensitive-information-623779/)
+* Exploring the new Android Permissions Model: [Link] (https://labs.ribot.co.uk/exploring-the-new-android-permissions-model-ba1d5d6c0610#.lhlmi3eqz)
 * Permissions: [Part 1] (https://blog.stylingandroid.com/permissions-part-1/) [Part 2] (https://blog.stylingandroid.com/permissions-part-2/) [Part 3] (https://blog.stylingandroid.com/permissions-part-3/) [Part 4] (https://blog.stylingandroid.com/permissions-part-4/)
 * Data Binding: [Part 1] (https://blog.stylingandroid.com/data-binding-part-1/) [Part 2] (https://blog.stylingandroid.com/data-binding-part-2/) [Part 3] (https://blog.stylingandroid.com/data-binding-part-3/) [Part 4] (https://blog.stylingandroid.com/data-binding-part-4/) [Part 5] (https://blog.stylingandroid.com/data-binding-part-5/) 
 * Android Data Sync: [Part 1] (http://www.dmytrodanylyk.com/android-data-sync-part-1/) [Part 2] (http://www.dmytrodanylyk.com/android-data-sync-part-2/)
@@ -220,6 +235,10 @@ A complete set of awesome stuff to use with Android
 * Services: [Link] (https://medium.com/@workingkills/10-things-didn-t-know-about-android-s-service-component-a2880b74b2b3)
 * Building Android Apps — 30 things that experience made me learn the hard way: [Link] (https://medium.com/@cesarmcferreira/building-android-apps-30-things-that-experience-made-me-learn-the-hard-way-313680430bf9#.70nejyduw)
 * IT TAKES LESS THAN 5 MINS, MAKE THAT DRAWER VISIBLE UNDER YOUR STATUS BAR: [Link] (http://matthewwear.xyz/no-excuses-it-takes-5-mins-make-that-drawer-visible-under-your-status-bar-2/)
+* Custom Content Provider in Android: [Link] (http://www.theappguruz.com/blog/custom-content-provider-in-android)
+* Exploring Buy with Android Pay: [Link] (https://labs.ribot.co.uk/exploring-buy-with-android-pay-4c8822c86133#.8i7cktphr)
+* Better Android Intents with Dart & Henson: [Link] (https://medium.com/groupon-eng/better-android-intents-with-dart-henson-1ca91793944b#.1hiqye4cx)
+* Managing the Fragment Back Stack [Link] (https://medium.com/@bherbst/managing-the-fragment-back-stack-373e87e4ff62#.9vov7zt2t)
 
 
 
