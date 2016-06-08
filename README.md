@@ -111,12 +111,13 @@ A complete set of awesome stuff to use with Android
 * [Android Studio MVP Template] (https://github.com/benoitletondor/Android-Studio-MVP-template)
 
 ####Useful links
+* The powerful Android Studio: [Link] (http://saulmm.github.io/the-powerful-android-studio)
 * Keyboard Navigation: [Link] (http://hadihariri.com/2014/06/24/no-tabs-in-intellij-idea/)
 * Shortcuts: [Link] (https://futurestud.io/blog/android-quick-tips-6-android-studio/)
 * Productivity: [Link] (https://futurestud.io/blog/android-quick-tips-2/)
 * (About) 10 Things You (Probably) Didn’t Know You Could do in Android Studio: [Link] (https://medium.com/google-developers/about-10-things-you-probably-didn-t-know-you-could-do-in-android-studio-de231071b375#.6jp7exn29)
 * ProTips: [Link] (https://medium.com/sebs-top-tips/clear-the-app-data-quickly-android-studio-protips-1-ebc47ea06286#.xxtczimea)
-* Custom Templates: [Live Templates] (http://riggaroo.co.za/create-live-templates-android-studio/) , [File Templates] (http://riggaroo.co.za/custom-file-templates-android-studio/)
+* Custom Templates: [Live Templates] (http://riggaroo.co.za/create-live-templates-android-studio/) , [File Templates] (http://riggaroo.co.za/custom-file-templates-android-studio/) , [Group of File Templates] (https://riggaroo.co.za/custom-file-template-group-android-studiointellij/)
 * Writing More Code by Writing Less Code with Android Studio Live Templates: [Link] (https://medium.com/google-developers/writing-more-code-by-writing-less-code-with-android-studio-live-templates-244f648d17c7#.awo7t3mco) 
 
 
