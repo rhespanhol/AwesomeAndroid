@@ -199,6 +199,7 @@ A complete set of awesome stuff to use with Android
 * Exploring the MVC, MVP, and MVVM design patterns: [Link] (http://www.infoworld.com/article/2926003/microsoft-net/exploring-the-mvc-mvp-and-mvvm-design-patterns.html)
 
 ##### RxJava
+* The introduction to Reactive Programming you've been missing: [Link] (https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 * The Reactive Revolution: RxAndroid and how it finally clicked for me: [Part 1] (https://medium.com/@carl.whalley/the-reactive-revolution-rxandroid-and-how-it-finally-clicked-for-me-part-1-of-2-a35122a6091e#.lul8lwkko) [Part 2] (https://medium.com/@carl.whalley/the-reactive-revolution-rxandroid-and-how-it-finally-clicked-for-me-part-2-of-2-bafefeac9c33#.7gpm13csk)
 * Crunching RxAndroid: [Intro] (https://medium.com/crunching-rxandroid/crunching-rxandroid-intro-c27eb6f009ea#.lnjpj2rhm) [Part 1] (https://medium.com/crunching-rxandroid/crunching-rxandroid-part-1-4ac7b7123238#.ed6lpqsss) 
 [Part 2] (https://medium.com/crunching-rxandroid/crunching-rxandroid-part-2-fb2a86f4fb8d#.l0pxevl90) 
