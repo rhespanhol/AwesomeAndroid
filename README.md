@@ -24,6 +24,7 @@ A complete set of awesome stuff to use with Android
 * Lucas Rocha: http://lucasr.org/
 * Riggaroo (Rebecca Franks): http://riggaroo.co.za/
 * Jeremie Martinez: http://jeremie-martinez.com/
+* Fernando Cejas: http://fernandocejas.com/
 
 
 ##Android Libraries
@@ -208,6 +209,17 @@ A complete set of awesome stuff to use with Android
 [Part 7] (https://medium.com/crunching-rxandroid/crunching-rxandroid-part-7-22be9e95650c#.txg84hkik)
 [Part 8] (https://medium.com/crunching-rxandroid/crunching-rxandroid-part-8-bf1808c08f95#.pyl10iy0l)
 [Part 9] (https://medium.com/crunching-rxandroid/crunching-rxandroid-part-9-37cfc28e2249#.vsukqkh0c)
+
+##### Dagger 2
+* DAGGER 2 - A New Type of dependency injection: [YouTube video] (https://www.youtube.com/watch?v=oK_XtfXPkqw)
+* The Future of Dependency Injection with Dagger 2: [YouTube video] (https://www.youtube.com/watch?v=plK0zyRLIP8)
+* Tasting Dagger 2 on Android: [Link] (http://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)
+* Dependency Injection with Dagger 2: [Link] (https://github.com/codepath/android_guides/wiki/Dependency-Injection-with-Dagger-2)
+* Snorkeling with Dagger 2: [Link] (https://github.com/konmik/konmik.github.io/wiki/Snorkeling-with-Dagger-2)
+* Dagger 2 for Android: [Introduction] (http://aaverin.github.io/android/tutorials/2014/04/30/dagger2-for-android-part1/)
+[Basics] (http://aaverin.github.io/android/tutorials/2014/05/06/dagger2-for-android-part2-basics/)
+[Modules] (http://aaverin.github.io/android/tutorials/2014/05/09/dagger2-for-android-Part3-Modules/)
+[Scopes] (http://aaverin.github.io/android/tutorials/2014/06/11/dagger2-for-android-Part4-Scopes/)
 
 ##Animations
 
