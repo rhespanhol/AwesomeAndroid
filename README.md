@@ -98,6 +98,9 @@ A complete set of awesome stuff to use with Android
 * [BlurView] (https://github.com/Dimezis/BlurView)
  > Dynamic iOS-like blur of underlying Views for Android
 
+* [MaterialDrawer] (https://github.com/mikepenz/MaterialDrawer)
+ > The flexible, easy to use, all in one drawer library for your Android project. 
+
 ##Android Studio
 ####Plugins
 * [Android WiFi ADB] (https://github.com/pedrovgs/AndroidWiFiADB)
@@ -174,8 +177,6 @@ A complete set of awesome stuff to use with Android
 
 ####Tutorials / Documentation
 * Android Application Architecture: [Link] (https://labs.ribot.co.uk/android-application-architecture-8b6e34acda65) , [Project] (https://github.com/ribot/android-boilerplate)
-* Introducing Bourbon: Dribbble, Android, MVP and a Common-Code Module: [Link] (https://medium.com/exploring-android/introducing-bourbon-dribbble-android-mvp-and-a-common-code-module-1d332a4028b5#.3as87icu9)
-* Building an Android App Using the MVP Pattern (Model-View-Presenter): [Link] (https://medium.com/android-news/building-an-android-app-using-the-mvp-pattern-model-view-presenter-e38822bcece7#.z1v18rijv)
 * Android Development Culture. The Document. #qualitymatters: [Link]  (http://artemzin.com/blog/android-development-culture-the-document-qualitymatters/)
 * Where is the best place to store a password in your Android app: [Link]  (http://www.androidauthority.com/where-is-the-best-place-to-store-a-password-in-your-android-app-597197/)
 * How to use the Android Keystore to store passwords and other sensitive information: [Link] (http://www.androidauthority.com/use-android-keystore-store-passwords-sensitive-information-623779/)
@@ -190,6 +191,9 @@ A complete set of awesome stuff to use with Android
 * Guidelines used by Ribot: [Github] (https://github.com/ribot/android-guidelines)
 
 ##### Patterns
+* Introducing Bourbon: Dribbble, Android, MVP and a Common-Code Module: [Link] (https://medium.com/exploring-android/introducing-bourbon-dribbble-android-mvp-and-a-common-code-module-1d332a4028b5#.3as87icu9)
+* Building an Android App Using the MVP Pattern (Model-View-Presenter): [Link] (https://medium.com/android-news/building-an-android-app-using-the-mvp-pattern-model-view-presenter-e38822bcece7#.z1v18rijv)
+* Android Code That Scales, with MVP: [Link] (http://engineering.remind.com/android-code-that-scales/)
 * Mosby (MVP): [Link] (http://hannesdorfmann.com/mosby/summary/)
 * Exploring the MVC, MVP, and MVVM design patterns: [Link] (http://www.infoworld.com/article/2926003/microsoft-net/exploring-the-mvc-mvp-and-mvvm-design-patterns.html)
 
@@ -240,6 +244,7 @@ A complete set of awesome stuff to use with Android
 * Exploring Buy with Android Pay: [Link] (https://labs.ribot.co.uk/exploring-buy-with-android-pay-4c8822c86133#.8i7cktphr)
 * Better Android Intents with Dart & Henson: [Link] (https://medium.com/groupon-eng/better-android-intents-with-dart-henson-1ca91793944b#.1hiqye4cx)
 * Managing the Fragment Back Stack [Link] (https://medium.com/@bherbst/managing-the-fragment-back-stack-373e87e4ff62#.9vov7zt2t)
+* Bottom Sheets Guides: [Link 1] (http://code.tutsplus.com/articles/how-to-use-bottom-sheets-with-the-design-support-library--cms-26031) , [Link 2] (https://medium.com/glucosio-project/moving-from-dialogs-to-bottomsheetdialogs-on-android-15fb8d140295#.qev60hvna)
 
 
 
