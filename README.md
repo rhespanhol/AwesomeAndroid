@@ -1,7 +1,7 @@
 # AwesomeAndroid
 A complete set of awesome stuff to use with Android
 
-##Blogs
+## Blogs
 * Android Weekly: http://androidweekly.net/
 * Base Labs: https://lab.getbase.com/tag/android/
 * JayWay: http://www.jayway.com/category/android/
@@ -27,11 +27,11 @@ A complete set of awesome stuff to use with Android
 * Fernando Cejas: http://fernandocejas.com/
 
 
-##Android Libraries
+## Android Libraries
 * Android Arsenal: https://android-arsenal.com/
 * UI/UX Material libraries: https://github.com/wasabeef/awesome-android-ui
 
-####Must have libraries
+#### Must have libraries
 * [Retrofit] (http://square.github.io/retrofit/) :
   * https://futurestud.io/blog/tag/retrofit/
 * [OkHttp] (http://square.github.io/okhttp/) :
@@ -44,7 +44,7 @@ A complete set of awesome stuff to use with Android
 * [Gson] (https://github.com/google/gson)
   * https://futurestud.io/blog/tag/gson
 
-####Nice libraries
+#### Nice libraries
 * [Stetho] (https://github.com/facebook/stetho)
  > Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
  
@@ -102,19 +102,19 @@ A complete set of awesome stuff to use with Android
 * [MaterialDrawer] (https://github.com/mikepenz/MaterialDrawer)
  > The flexible, easy to use, all in one drawer library for your Android project. 
 
-##Android Studio
-####Plugins
+## Android Studio
+#### Plugins
 * [Android WiFi ADB] (https://github.com/pedrovgs/AndroidWiFiADB)
 * [ADB-Uninstall] (https://github.com/Ghedeon/ADB-Uninstall)
 * [ADB Idea] (https://github.com/pbreault/adb-idea)
 * [Android File Grouping Plugin] (https://github.com/dmytrodanylyk/folding-plugin)
 * [Parcelable Generator]
 
-####Libraries
+#### Libraries
 * [Free Builder] (https://github.com/google/FreeBuilder)
 * [Android Studio MVP Template] (https://github.com/benoitletondor/Android-Studio-MVP-template)
 
-####Useful links
+#### Useful links
 * The powerful Android Studio: [Link] (http://saulmm.github.io/the-powerful-android-studio)
 * Keyboard Navigation: [Link] (http://hadihariri.com/2014/06/24/no-tabs-in-intellij-idea/)
 * Shortcuts: [Link] (https://futurestud.io/blog/android-quick-tips-6-android-studio/)
@@ -127,9 +127,9 @@ A complete set of awesome stuff to use with Android
 
 
 
-##Testing 
+## Testing 
 
-####Tutorials / Documentation
+#### Tutorials / Documentation
 * A BEGINNERS GUIDE TO AN EFFECTIVE ANDROID TESTING STRATEGY: [Link] (https://davidguerrerodiaz.wordpress.com/2016/03/04/a-beginners-guide-to-an-effective-android-testing-strategy/)
 * Android Testing Tools: [Link] (https://developer.android.com/intl/ko/tools/testing/testing-tools.html)
 * Espresso-Cheat-Sheet: [Link] (https://google.github.io/android-testing-support-library/downloads/espresso-cheat-sheet-2.1.0.pdf)
@@ -146,7 +146,7 @@ A complete set of awesome stuff to use with Android
 * AdapterViews and Espresso: [Link] (https://medium.com/google-developers/adapterviews-and-espresso-f4172aa853cf#.pm6mnwat6)
 * What’s New in UI Automator 2.0 and How to Get Started: [Link] (http://testdroid.com/tech/how-to-get-started-with-ui-automator-2-0)
 
-####Samples
+#### Samples
 * https://github.com/googlecodelabs/android-testing
 * https://github.com/chiuki/android-test-demo
 * https://github.com/chiuki/espresso-samples
@@ -154,9 +154,9 @@ A complete set of awesome stuff to use with Android
 * 
 
 
-##Design / Graphics
+## Design / Graphics
 
-####Tutorials / Documentation
+#### Tutorials / Documentation
 
 * Devices metrics: [Link] (https://design.google.com/devices/)
 
@@ -172,11 +172,11 @@ A complete set of awesome stuff to use with Android
 * IO 2016 Codelab: [Link] (https://codelabs.developers.google.com/codelabs/constraint-layout/index.html?index=..%2F..%2Fio2016#0)
 
 
-##Architecture
+## Architecture
 
 * **Android guidelines by Google** [GitHub] (https://github.com/googlesamples/android-architecture)
 
-####Tutorials / Documentation
+#### Tutorials / Documentation
 * Android Application Architecture: [Link] (https://labs.ribot.co.uk/android-application-architecture-8b6e34acda65) , [Project] (https://github.com/ribot/android-boilerplate)
 * Android Development Culture. The Document. #qualitymatters: [Link]  (http://artemzin.com/blog/android-development-culture-the-document-qualitymatters/)
 * Where is the best place to store a password in your Android app: [Link]  (http://www.androidauthority.com/where-is-the-best-place-to-store-a-password-in-your-android-app-597197/)
@@ -222,9 +222,9 @@ A complete set of awesome stuff to use with Android
 [Modules] (http://aaverin.github.io/android/tutorials/2014/05/09/dagger2-for-android-Part3-Modules/)
 [Scopes] (http://aaverin.github.io/android/tutorials/2014/06/11/dagger2-for-android-Part4-Scopes/)
 
-##Animations
+## Animations
 
-####Tutorials / Documentation
+#### Tutorials / Documentation
 * Building Meaningful Motion: [Presentation] (https://photos.google.com/share/AF1QipMRnZL6gNbS06fnBNtKffRm9HBaxW8iP6w0L1T4nZYLI6s3wi_l8daT6mq4nwPf-w?key=LThZNmFXUUtmNi04bWlEYmVfcWdPenlvaDdCRU13)
 * Exploring Meaningful Motion on Android: [Link] (https://labs.ribot.co.uk/exploring-meaningful-motion-on-android-1cd95a4bc61d)
 * Animating an Android Floating Action Button: [Link] (http://www.sitepoint.com/animating-android-floating-action-button/)
@@ -234,9 +234,9 @@ A complete set of awesome stuff to use with Android
 * Intercepting everything with CoordinatorLayout Behaviors: [Link] (https://medium.com/google-developers/intercepting-everything-with-coordinatorlayout-behaviors-8c6adc140c26)
 * Meaningful Motion with Shared Element Transition and Circular Reveal Animation: [Link] (http://www.thedroidsonroids.com/blog/android/meaningful-motion-with-shared-element-transition-and-circular-reveal-animation/)
 
-##Network
+## Network
 
-####Tutorials / Documentation
+#### Tutorials / Documentation
 * Effective OkHttp: [Link] (http://omgitsmgp.com/2015/12/02/effective-okhttp/)
 * What’s under the hood of the OkHttp’s cache?: [Link] (http://www.schibsted.pl/blog/hood-okhttps-cache/)
 * Protecting against unintentional regressions to cleartext traffic in your Android apps: [Link] (http://android-developers.blogspot.co.uk/2016/04/protecting-against-unintentional.html)
@@ -245,7 +245,7 @@ A complete set of awesome stuff to use with Android
 * Caching best practices & max-age gotchas: [Link] (https://jakearchibald.com/2016/caching-best-practices/)
 
 
-##Guides (Just in case)
+## Guides (Just in case)
 
 * DevOps on Android: From one Git push to production: [Link] (http://jeremie-martinez.com/2016/01/14/devops-on-android/)
 
@@ -261,7 +261,7 @@ A complete set of awesome stuff to use with Android
 
 
 
-###Questions
+### Questions
 
 * "endless viewpager"
  * http://stackoverflow.com/questions/16983697/how-to-add-a-page-to-the-beginning-of-viewpager
